@@ -54,6 +54,12 @@
 
 [Secureum](https://secureum.substack.com/archive)
 
+[Hypothetical Attacks on Cryptocurrencies](https://blockgeeks.com/guides/hypothetical-attacks-on-cryptocurrencies/)
+
+[https://consensys.github.io/smart-contract-best-practices/](https://consensys.github.io/smart-contract-best-practices/)
+
+[Secureum Mind Map](https://github.com/x676f64/secureum-mind_map)
+
 ## Hacking Practice
 [Capture the Ether](https://capturetheether.com/)
 
@@ -133,3 +139,4 @@
 - https://github.com/yjjnls/awesome-blockchain
 - https://github.com/crytic/awesome-ethereum-security
 - https://github.com/OffcierCia/DeFi-Developer-Road-Map
+- https://github.com/bt3gl-labs/Blockchain-Hacking-Toolkit
