@@ -77,6 +77,10 @@
 [Root Me Ethereum - BadStack](https://www.root-me.org/fr/Challenges/Programmation/Ethereum-BadStack)
 
 ## Tools
+[Manticore](https://github.com/trailofbits/manticore)
+[Oyente](https://github.com/enzymefinance/oyente)
+[Octopus](https://github.com/pventuzelo/octopus)
+[Echidna](https://github.com/crytic/echidna)
 
 ## Development
 [Buildspace](https://buildspace.so/)
