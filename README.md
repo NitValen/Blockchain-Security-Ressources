@@ -61,6 +61,14 @@
 
 [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/)
 
+[Root Me Ethereum - Tutoreum](https://www.root-me.org/fr/Challenges/Programmation/Ethereum-Tutoreum)
+
+[Root Me Ethereum - Takeover](https://www.root-me.org/fr/Challenges/Programmation/Ethereum-Takeover)
+
+[Root Me Ethereum - NotSoPriv8](https://www.root-me.org/fr/Challenges/Programmation/Ethereum-NotSoPriv8)
+
+[Root Me Ethereum - BadStack](https://www.root-me.org/fr/Challenges/Programmation/Ethereum-BadStack)
+
 ## Development
 [Buildspace](https://buildspace.so/)
 
